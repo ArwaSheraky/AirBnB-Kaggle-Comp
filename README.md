@@ -1,2 +1,2 @@
-# AirBnB-Kaggle-Comp
+# AirBnB Listing
 In-Class Kaggle Competition
